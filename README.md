@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dapperdeveloper
 - 👀 I’m interested in coding, coding and coding.
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on making api with node.js
+- 😎 I'm Android Developer and work with Java as well as Kotlin.
 - 📫 How to reach me @dapperdeveloper15
 
 <!---
